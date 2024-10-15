@@ -1,0 +1,14 @@
+{
+    "name": "Hide GitHub Profile Readme",
+    "version": "1.0.0",
+    "description": "Browser extension that hides the annoying profile README on GitHub profiles.",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["*://github.com/*"],
+            "css": [
+                "css/content.css"
+            ]
+        }
+    ]
+}
