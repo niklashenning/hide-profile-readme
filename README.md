@@ -22,7 +22,7 @@ Revert back to clean profiles without all the clutter.
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/60f9d5cd-01b2-4d74-b5dc-da2fcc108cca" width="600px"/>
+    <img src="https://github.com/user-attachments/assets/e67ae096-dbea-47ba-acea-40c2d1fddf8a" width="580px"/>
 </p>
 
 
