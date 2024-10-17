@@ -1,0 +1,14 @@
+body {
+    background: #FEFEFE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 80px;
+}
+
+#status-text {
+    color: #777;
+    font-size: 13px;
+    text-transform: uppercase;
+}
