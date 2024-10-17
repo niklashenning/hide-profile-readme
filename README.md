@@ -21,6 +21,10 @@ Revert back to clean profiles without all the clutter.
 <a href="https://example.com"><strong>Install extension »</strong></a>
 </p>
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/60f9d5cd-01b2-4d74-b5dc-da2fcc108cca" width="600px"/>
+</p>
+
 
 ## Installation
 ...
